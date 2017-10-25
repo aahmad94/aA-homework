@@ -1,0 +1,27 @@
+/* PHASE 1: Header */
+
+body {
+  font-family: sans-serif;
+  font-weight: 400, 700;
+  font-size: 24px, 16px, 14px;
+  background-color: #eee;
+}
+
+.header {
+  background-color: #f00;
+  border-bottom: solid;
+  border-bottom-color: #ccc;
+
+}
+
+.header a {
+  display: block;
+  padding: 10px 20px;
+}
+
+.header-nav {
+  margin: auto;
+  width: 900px;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
